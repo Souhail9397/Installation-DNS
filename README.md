@@ -102,14 +102,6 @@ Pour créer un enregistrement A ou AAAA, faire un clic droit sur la Zone de Rech
   
 ➡️ Cocher `Create associated pointer (PTR) record` afin de créer automatiquement le pointeur associé dans la zone de recherche inversée puis cliquer sur `Add Host`    
   
-(à supprimer après quete : )  
-  
-➡️ **Nom** : Entrer le nom de la machine possédant la réservation IP : DESKTOP-CTOKK97  
-  
-➡️ **IP address** : Entrer l'adresse IP de la machine : 172.20.0.150  
-  
-➡️ Cocher `Create associated pointer (PTR) record` afin de créer automatiquement le pointeur associé dans la zone de recherche inversée puis cliquer sur `Add Host`  
-  
 ### 🌀 Enregistrement CNAME  
   
 Pour créer un enregistrement CNAME, faire un clic droit sur la Zone de Recherche Directe puis `New Alias (CNAME)...`  
