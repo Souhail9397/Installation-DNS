@@ -59,7 +59,11 @@ Sur Server Manager, cliquer sur `Tools` puis `DNS`. La console DNS manager s'ouv
   
 ➡️ **Zone Type** : Primary Zone    
   
-➡️ **Active Directory Zone Replication Scope** : `To all DNS servers running on domain controllers in this domain: wilders.lan`
+➡️ **Active Directory Zone Replication Scope** : `To all DNS servers running on domain controllers in this domain: wilders.lan`  
+  
+➡️ **Zone name** : wilders.lan (ceci est un exemple)  
+  
+➡️ **Dynamic Update** : pour des raisons de sécurité, cocher `Do not allow dynamic updates`  
 
 
 
